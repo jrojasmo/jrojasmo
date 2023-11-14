@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi!
+I'm always learning new stuff. Just for fun I guess 😸.
+🤓 También hablo español. 
 <!--
 **jrojasmo/jrojasmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
